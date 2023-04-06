@@ -4,7 +4,7 @@ These expert persona's represent individuals with domain expertise and authority
 
 We’ve also put together [20 Audience Archetypes](https://www.notion.so/20-Audience-Archetypes-43cbf3d925d6418ab17d71edec365c45) for more specific archetypes you can target your prompt towards.
 
-### Potential Personas
+### Potential Personas 
 
 1. 🚀 Entrepreneur
 2. 🏫 Professor
