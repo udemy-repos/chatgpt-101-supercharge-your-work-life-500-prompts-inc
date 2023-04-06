@@ -1,0 +1,36 @@
+# 30 Verbs for Starting Prompts
+
+Using the correct verb at the beginning of your ChatGPT prompts is crucial for creating clear and effective instructions. The verb you choose sets the tone for the rest of the prompt and helps ChatGPT understand the exact action it should take.
+
+### Verbs
+
+1. 🔍 Find: "Find a job in marketing"
+2. 📈 Improve: "Improve my public speaking skills"
+3. 🚀 Develop: "Develop a social media strategy"
+4. 📅 Plan: "Plan a vacation to Europe"
+5. 🔬 Research: "Research career options in data science"
+6. 🔍 Compare: "Compare prices for a new car"
+7. 📐 Tailor: "Tailor my resume for a marketing manager position"
+8. 🧑‍💼 Evaluate: "Evaluate my current investment portfolio"
+9. 📊 Create: "Create a budget plan"
+10. 📈 Monitor: "Monitor my progress towards fitness goals"
+11. 🔎 Seek: "Seek out new learning opportunities"
+12. 🧠 Understand: "Understand complex financial concepts"
+13. 💬 Learn: "Learn a new language"
+14. 💪 Practice: "Practice for a job interview"
+15. 💻 Connect: "Connect with industry experts"
+16. 🔍 Explore: "Explore career options in finance"
+17. 📊 Analyze: "Analyze my current workflow and identify areas for improvement"
+18. 🤝 Collaborate: "Collaborate with a team on a project"
+19. 🧑‍💼 Manage: "Manage my time effectively"
+20. 📅 Organize: "Organize my work schedule for the week"
+21. 🏆 Master: "Master a new skill"
+22. 📈 Enhance: "Enhance my leadership skills"
+23. 🧑‍💼 Build: "Build a personal brand"
+24. 🎯 Set: "Set goals and track progress"
+25. 🏆 Achieve: "Achieve fluency in Spanish"
+26. 📈 Enhance: "Enhance my productivity"
+27. 📊 Optimize: "Optimize my workflow"
+28. 🚀 Streamline: "Streamline my daily routine"
+29. 🚀 Implement: "Implement new time management techniques"
+30. 🔝 Leverage: "Leverage my skills to advance my career"

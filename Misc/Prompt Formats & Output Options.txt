@@ -1,0 +1,131 @@
+# 40 Prompt Formats & Output Options
+
+"Prompt Formats" are the layout and structure of the requested output. Specifying these can improve the output's quality and make it easier to understand. Using formats like sentences, paragraphs, bullet points, numbered lists, and code can make the output more engaging and effective. See below for examples of both Prompt Formats and additional Text-based Outputs. 
+
+### Prompt Formats
+
+1. 📝 Sentences
+2. 📝 Paragraphs
+3. 📝 Essays
+4. 🔖 Bullet point lists
+5. 🔢 Numbered lists
+6. 📝 Step-by-step instructions
+7. 📊 Table (comparison, data)
+8. 📚 Structured sections with sub-headings
+9. 💻 Code
+10. 📅 Timelines/schedules
+
+### Text-based Outputs
+
+1. 📚 Definitions
+2. 📝 Descriptions
+3. 📖 Narratives
+4. 📊 Reports
+5. 👤 Bios
+6. 📃 Profiles
+7. 💻 Blog posts
+8. 📰 Articles
+9. 📧 Newsletters
+10. 📚 E-books
+11. 📄 White papers
+12. 📝 Cover Letters
+13. 💬 Testimonials
+14. 📈 Case studies
+15. 📊 Research papers
+16. 📚 Theses
+17. 📚 Dissertations
+18. 📜 Proposals
+19. 💰 Grants
+20. 📊 Business plans
+21. 📈 Marketing plans
+22. 💰 Financial plans
+23. 💼 Operational plans
+24. 🧭 Strategic plans
+25. 📅 Agendas
+26. 📜 Statements
+27. 📧 Letters
+28. 📝 Memos
+29. 📧 Emails
+30. 📃 Contracts
+31. 📜 Legal documents
+32. 📝 Policies
+33. 📝 Procedures
+34. 📝 Guidelines
+35. 📜 Standards
+36. 🎥 Film scripts
+37. 📺 TV scripts
+38. 🎤 Songs
+39. 📝 Poems
+40. 🎤 Standup comedy
+41. 📝 Posts
+42. 🐦 Tweets
+43. 🔁 Retweets
+44. 💬 Replies
+45. 🧵 Threads
+46. 📄 Articles
+47. 💬 Text messages
+48. 📝 Captions
+49. 💬 Chat messages
+50. 💬 Group chats
+
+### Searching for a prompt by output type
+
+If you want to find prompts that might be helpful for a specific output type, i.e. a YouTube video, you could consider searching for these words.
+
+### **Text**
+
+1. 📝 Post
+2. 🐦 Tweet
+3. 🔁 Retweet
+4. 💬 Reply
+5. 🧵 Thread
+6. 📄 Article
+7. 💬 Text message
+8. 🗣 Voice message
+9. 📝 Caption
+10. 💬 Chat message
+11. 💬 Group chat
+
+### Audio
+
+1. 🗣 Voice message
+2. 🔊 Sound
+3. 💬 Chat message
+4. 💬 Group chat
+5. 📞 Voice call
+6. 🎥 Video call
+
+### Video
+
+1. 🎥 Video
+2. 📺 Stream
+3. 📹 Clip
+4. 🎞 VOD
+5. 📽 Story
+6. 🎥 IGTV video
+7. 📹 Reel
+8. 🎥 Live video
+9. 🎬 Duet
+10. 🎬 Stitch
+
+### Image
+
+1. 📷 Photo
+2. 🖼 Image
+3. 🎞 Carousel
+4. 📊 SlideShare presentation
+
+### Other
+
+1. 🔗 Link
+2. 📊 Poll
+3. 📅 Event
+4. 💼 Job
+5. 💬 Group discussion
+6. 📎 Embed
+7. 📁 File
+8. 😂 Emoji reaction
+9. @ Role mention
+10. 🎬 Effect
+11. @ Tag
+12. @ Hashtag
