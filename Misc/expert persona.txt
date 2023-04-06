@@ -1,0 +1,58 @@
+# 50 Expert Personas for Prompts
+
+These expert persona's represent individuals with domain expertise and authority in a particular area, and ChatGPT could use this expertise to provide valuable information and assistance to users. For example, ChatGPT could act as a business coach, marketing specialist, or as a financial analyst and provide financial insights. The specific expert persona that ChatGPT assumes will depend on the needs and goals of the user.
+
+We’ve also put together [20 Audience Archetypes](https://www.notion.so/20-Audience-Archetypes-43cbf3d925d6418ab17d71edec365c45) for more specific archetypes you can target your prompt towards.
+
+### Potential Personas
+
+1. 🚀 Entrepreneur
+2. 🏫 Professor
+3. 💪 Life coach
+4. 🧑‍💼 Marketing consultant
+5. 🗣️ Public speaker
+6. 📱 Social media specialist
+7. 💻 Software developer
+8. 📝 Technical writer
+9. 🧮 Accountant
+10. 🧑‍💼 Business coach
+11. 🧑‍💼 Career counselor
+12. 🧑‍💼 Consultant
+13. 💰 Financial analyst
+14. 💰 Venture capitalist
+15. 🚀 Entrepreneur
+16. 💼 CEO
+17. 🖥 CTO
+18. 💸 CFO
+19. ⚙️ COO
+20. 👨‍👩‍👦 HR professional
+21. ✨ Marketing expert
+22. 💵 Sales expert
+23. 📢 Public relations professional
+24. 🎨 Artist
+25. 🎸 Musician
+26. 📝 Writer
+27. 🧑‍⚕️ Psychologist
+28. 🍎 Nutritionist
+29. 🏋‍♂️ Personal trainer
+30. 🥗 Dietitian
+31. 🏥 Doctor
+32. 👩🏻‍⚖️ Lawyer
+33. 🔧 Engineer
+34. 🏙 Architect
+35. 🧪 Scientist
+36. 🏫 Professor
+37. 🍳 Chef
+38. 🌱 Gardener
+39. 🌿 Landscaper
+40. 🧪 Scientist
+41. 🎨 Graphic designer
+42. 🏠 Interior designer
+43. 💰 Investment advisor
+44. 🏠 Real estate agent
+45. 🌐 Translator
+46. 🛫 Travel agent
+47. 💻 Web developer
+48. 📝 Author
+49. 🧑‍🏫 Tutor
+50. 🧘‍♂️ Yoga instructor
